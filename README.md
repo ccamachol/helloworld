@@ -1,2 +1,5 @@
 # helloworld
-guia introducción a GitHub
+
+hola! cacharreando con GitHub.  
+Mas facil de lo que parece
+
